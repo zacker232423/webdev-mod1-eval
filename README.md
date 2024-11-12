@@ -2,7 +2,7 @@
 
 ## Web Development Evaluation 001
 
-This repository contains the files and instructions for completing Web Development Evaluation 001. Follow the steps below to clone the repository and get started.
+This repository contains the files and instructions for completing Web Development Evaluation 001. Follow the steps below to fork and then clone the repository and get started.
 
 ### Prerequisites
 
